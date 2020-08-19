@@ -1,0 +1,8 @@
+b *0x080489f3
+b *0x08048C31
+b *0x080489fd
+#b *0x8048C16
+#b *0x8048AC4
+display/4xw 0xffffddc8
+display/4xw 0xffffde08
+display/xw 0xffffde28
