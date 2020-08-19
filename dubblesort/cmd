@@ -1,0 +1,3 @@
+pie breakpoint *0xaf9
+pie breakpoint *0xa95
+display/50xw $esp+0x1c
