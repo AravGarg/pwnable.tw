@@ -1,0 +1,4 @@
+#b *0x8048991
+b *0x80487B2
+display/18xw $ebp-0x34
+#display/15xw $ebp-0x84
