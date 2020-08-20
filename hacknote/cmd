@@ -1,0 +1,7 @@
+b *0x804893D
+#b *0x8048a5d
+#b *0x80488E0
+#display/xw 0x804a04c
+#display/xw 0xffffde20
+#display/5xw 0x804a050
+#b free
