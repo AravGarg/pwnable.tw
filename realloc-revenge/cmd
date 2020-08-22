@@ -1,0 +1,3 @@
+pie breakpoint *0x1650
+#b __libc_realloc
+#display/2xg 0x4040b0
