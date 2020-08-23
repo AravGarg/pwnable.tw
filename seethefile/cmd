@@ -1,0 +1,5 @@
+b *0x08048b17
+b fclose
+b free
+display/xw &fp
+display/64xw &name
