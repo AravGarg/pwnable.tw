@@ -1,0 +1,6 @@
+pie breakpoint *0xd66
+display/40xg &_IO_2_1_stdout_
+# free
+#pie breakpoint *0xDCD 
+#puts
+#pie breakpoint *0xc2c
