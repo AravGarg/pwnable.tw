@@ -1,0 +1,3 @@
+#pie breakpoint *0xccf
+pie breakpoint *0x10b3
+display/xg (void *)&__free_hook
