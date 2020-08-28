@@ -1,0 +1,7 @@
+display/8xg 0x6020a0
+display _IO_list_all
+display/xg main_arena->top
+#b *0x400d06
+b _int_malloc
+b _IO_flush_all_lockp
+#b _int_free
