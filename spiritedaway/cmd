@@ -1,0 +1,18 @@
+#read1
+b *0x0804868F
+#read2
+b *0x080486F8
+#read3 
+b *0x0804873E
+#sprintf
+b *0x080487CC 
+#free
+b *0x080488C9
+#ret
+b *0x080488D3
+display/xw $ebp-0x58
+display/xw $ebp-0x54
+display/20xw $ebp-0x50
+display/15xw $ebp-0xa8
+display/16xw $ebp-0xe8
+display/2xw $ebp-0xa8+0x50
