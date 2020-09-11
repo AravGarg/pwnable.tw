@@ -1,0 +1,5 @@
+#ret
+pie breakpoint *0x1051
+pie breakpoint *0xe1e
+#menu
+pie breakpoint *0xf87
